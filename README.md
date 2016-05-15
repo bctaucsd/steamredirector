@@ -11,8 +11,8 @@ Using this tool
 ------------
 This tool uses URLs as input parameters.  There are three possible input parameters that you can input into the URL.
 
-* The unique Steam key ID identifier.  For example, the unique steam key ID for the game located at "http://store.steampowered.com/app/367080" is 367080
 * The name of your game. For example, Songbringer.
+* The unique Steam key ID identifier.  For example, the unique steam key ID for the game located at "http://store.steampowered.com/app/367080" is 367080.
 * An optional key ID for a background image that is hosted on imgur.  For example, for the image URL "http://imgur.com/tGWGLL0", the unique id would be tGWGLL0
 
 The finished built URL will look like: [http://steamapps.herokuapp.com/SongBringer/367080/tGWGLL0](http://steamapps.herokuapp.com/SongBringer/367080/tGWGLL0)
