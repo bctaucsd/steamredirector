@@ -6,9 +6,9 @@ A quick tool I wrote using Python and Flask that allows you to create a quick la
 Using this tool
 ------------
 This tool uses URLs as input parameters.  There are three possible input parameters that you can input into the URL.
-1) The unique Steam key ID identifier.  For example, the unique steam key ID for the game located at "http://store.steampowered.com/app/367080" is 367080
-2) The name of your game. For example, Songbringer
-3) An optional key ID for a background image that is hosted on imgur.  For example, for the image URL "http://imgur.com/tGWGLL0", the unique id would be tGWGLL0
+1. The unique Steam key ID identifier.  For example, the unique steam key ID for the game located at "http://store.steampowered.com/app/367080" is 367080
+2. The name of your game. For example, Songbringer
+3. An optional key ID for a background image that is hosted on imgur.  For example, for the image URL "http://imgur.com/tGWGLL0", the unique id would be tGWGLL0
 The finished built URL will look like: [rooturl].com/SongBringer/367080/tGWGLL0
 
 ![alt text](readme_picture.PNG "readme")
