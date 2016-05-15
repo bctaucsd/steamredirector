@@ -11,7 +11,7 @@ This tool uses URLs as input parameters.  There are three possible input paramet
 3) An optional key ID for a background image that is hosted on imgur.  For example, for the image URL "http://imgur.com/tGWGLL0", the unique id would be tGWGLL0
 The finished built URL will look like: [rooturl].com/SongBringer/367080/tGWGLL0
 
-[alt text](readme_picture.PNG "readme")
+![alt text](readme_picture.PNG "readme")
 
 
 
