@@ -19,4 +19,12 @@ The finished built URL will look like: [http://steamapps.herokuapp.com/SongBring
 
 ![alt text](readme_picture.PNG "readme")
 
+Installation
+------------
+Clone the repository and push to Heroku.  I've included the Procfiles and requirements.txt.  It should be pretty painless.
 
+Todo
+------------
+* Code cleanup
+* Better error handling
+* Fix mobile rendering
