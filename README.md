@@ -23,6 +23,15 @@ Installation
 ------------
 Clone the repository and push to Heroku.  I've included the Procfiles and requirements.txt.  It should be pretty painless.
 
+How did this project come about?
+------------
+
+This project was created at Tool Jam 2016, a hackathon for creating game development tools.
+
+Tool Jam was presented by [Playcrafting](https://www.playcrafting.com/) and [Microsoft](https://developer.microsoft.com/) and took place in San Francisco on May 13th through 15th.
+
+[Click here](https://github.com/TobiahZ/ToolJam2016) to see other Tool Jam 2016 projects.
+
 Todo
 ------------
 * Code cleanup
