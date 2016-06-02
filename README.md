@@ -32,6 +32,11 @@ Tool Jam was presented by [Playcrafting](https://www.playcrafting.com/) and [Mic
 
 [Click here](https://github.com/TobiahZ/ToolJam2016) to see other Tool Jam 2016 projects.
 
+Video Pitch
+------------
+
+[![Final Presnetation: Steam-Redirector](http://video.ch9.ms/ch9/62cd/1806924e-3242-4ef0-b2f8-91fcd92a62cd/tj16steam_Custom.jpg)](https://channel9.msdn.com/Events/ToolJam/2016/Steam-Redirector "Final Presnetation: Steam-Redirector")
+
 Todo
 ------------
 * Code cleanup
